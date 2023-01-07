@@ -6,6 +6,6 @@ data1=data.map(lambda x:x.split("::")).map(lambda x:x[2]).flatMap(lambda x:x.spl
 data2 =data1.map(lambda x:(x,1)).reduceByKey(lambda x,y:x+1)
 print(data2.take(9))
 
-.
+
 
 
