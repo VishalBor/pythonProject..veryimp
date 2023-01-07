@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d4a17074-70f5-49c6-bb17-2573d97ed3eb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark/.idea/spark.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark/Healthcare _ drop,null.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark/brodcast.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark/creatig_data_Schema.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark/healthcare_corept..py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark/latest movies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark/movies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark/movies_in_each_genere.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark/movies_starting_with.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark/rdd exercises.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark/s3 fil.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark/top_10_most_viewed.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../pythonProject\exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JmY1Fg5RhmIkq52djxgKBFFYVa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Pooja/pythonProject/git",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+    ]
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="movies_in_each_genere" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/spark" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spark/movies_in_each_genere.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.movies_in_each_genere" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Pooja\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4a17074-70f5-49c6-bb17-2573d97ed3eb" name="Changes" comment="" />
+      <created>1672684508852</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672684508852</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="E:/" />
+    </ignored-roots>
+  </component>
+</project>
