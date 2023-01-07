@@ -71,3 +71,4 @@ spark.sql("SELECT * FROM DATA where STATE IS NULL").show()
 spark.sql("SELECT * FROM DATA where STATE IS NULL AND GENDER IS NULL").show()
 spark.sql("SELECT * FROM DATA where STATE IS NOT NULL").show()'''
 
+''

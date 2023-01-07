@@ -9,4 +9,4 @@ data1=data.map(lambda x:x.split("::")[1])
 
 # problem in ratings do solve
 ratings=vishal.sparkContext.textFile("C:\\Users\\Pooja\\Desktop\\spark tasks\\Spark_RDD\\Spark_RDD\\data\\ratings_data\\ratings.dat")
-print(ratings.ta)
+print(ratings.ta).

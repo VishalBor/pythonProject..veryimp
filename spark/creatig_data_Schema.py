@@ -15,7 +15,7 @@ schema1=StructType([ \
 
 '''df=pooja.createDataFrame(data=data2,schema=schema1)
 print(df.printSchema())
-print(df.show(5))'''
+print(df.show(5))'''.
 
 
 

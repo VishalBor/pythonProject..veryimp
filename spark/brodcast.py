@@ -24,3 +24,4 @@ print(result)
 
 rddFromFile = vishal.sparkContext.textFile("C:\\Users\\Pooja\\Desktop\\spark tasks\\Spark_RDD\\Spark_RDD\data\\movies_data\\movies.dat",10)
 print("TextFile : "+str(rddFromFile.getNumPartitions()))
+.
