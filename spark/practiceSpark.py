@@ -365,3 +365,4 @@ from pyspark.sql.functions import dense_rank
 df1=df.withColumn("dense_rank",dense_rank().over(windowSpec)).filter("dense_rank==2") \
     .show()
 # df2=df1.filter(col("dense_rank") == 2)
+dsa
