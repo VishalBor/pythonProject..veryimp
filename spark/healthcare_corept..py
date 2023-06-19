@@ -14,3 +14,4 @@ employee_df = spark.read.option("mode", "PERMISSIVE").schema(schema).option("hea
 
 from pyspark.sql.functions import col
 employee_df.where(col("_corrupt_record").isNull()).drop("_corrupt_record")
+ 
