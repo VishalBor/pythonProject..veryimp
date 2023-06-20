@@ -23,4 +23,4 @@ def state_convert(code):
 
 result = df.rdd.map(lambda x: (x[0],x[1],x[2],state_convert(x[3]))).toDF(columns)
 result.show(truncate=False)
-123
+123n
